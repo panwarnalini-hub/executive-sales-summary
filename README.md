@@ -56,9 +56,23 @@ The dashboard provides interactive insights into sales performance, profit margi
 
 ---
 
+## Repository Structure
+
+```plaintext
+executive-sales-summary/
+├── README.md                       # Project overview
+├── docs/                           # Documentation files
+│   ├── MEASURES.md                 # DAX measures
+│   └── DATA_DICTIONARY.md          # Custom columns & dataset snapshot
+├── images/                         # Dashboard screenshots
+│   ├── overview.png                # Main dashboard screenshot
+│   └── drillthrough.png            # Drillthrough page screenshot
+└── Contoso_Sales_Insights.pbix.md  # Link to PBIX file on Google Drive
+```
+---
+
 ## How to Use
-1. Download the `.pbix` file:  
-   [Contoso_Sales_Insights.pbix (Google Drive)](https://drive.google.com/file/d/153Bu3TIUcZsC0lIOe50sw5nfqKxJBMvu/view?usp=sharing)  
+1. Download the `.pbix` file:  [Contoso_Sales_Insights.pbix (Google Drive)](https://drive.google.com/file/d/153Bu3TIUcZsC0lIOe50sw5nfqKxJBMvu/view?usp=sharing)  
 2. Open in **Power BI Desktop**.  
 3. Interact with slicers, visuals and use drillthrough to explore details.
 
