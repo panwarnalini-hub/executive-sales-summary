@@ -28,7 +28,7 @@ The dashboard provides interactive insights into sales performance, profit margi
 
 ## Custom Columns & Hierarchies
 - `MonthSort = YEAR(Calendar[Date]) * 100 + MONTH(Calendar[Date])` (for correct month sorting)  
-- `Custom Bin = SWITCH(TRUE(), …)` for order quantity ranges (0–50, 51–100, 101–500, 500+)  
+- `Custom Bin = SWITCH(TRUE(), …)` for order quantity ranges (0-50, 51-100, 101-500, 500+)  
 - **Calendar Hierarchy:** Year - Quarter - Month - Month Number
 
 > Details: **[DATA_DICTIONARY.md](docs/DATA_DICTIONARY.md)**
@@ -54,21 +54,6 @@ The dashboard provides interactive insights into sales performance, profit margi
 ### Drillthrough Page
 ![Drillthrough Page](images/drillthrough.png)
 
----
-
-## Repository Structure
-
-```plaintext
-executive-sales-summary/
-├── README.md                       # Project overview
-├── docs/                           # Documentation files
-│   ├── MEASURES.md                 # DAX measures
-│   └── DATA_DICTIONARY.md          # Custom columns and dataset snapshot
-├── images/                         # Dashboard screenshots
-│   ├── overview.png                # Main dashboard screenshot
-│   └── drillthrough.png            # Drillthrough page screenshot
-└── Contoso_Sales_Insights.pbix.md  # Link to PBIX file on Google Drive
-```
 ---
 
 ## How to Use
