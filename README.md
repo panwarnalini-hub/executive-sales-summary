@@ -1,7 +1,7 @@
 # Executive Sales Summary (Power BI Dashboard)
 
 ## Overview
-This project analyzes **Contoso’s sales data (2011–2013 actuals with 2014 forecast)**.  
+This project analyzes **Contoso’s sales data (2011-2013 actuals with 2014 forecast)**.  
 The dashboard provides interactive insights into sales performance, profit margins, order patterns, and regional breakdowns.
 
 ---
@@ -9,7 +9,7 @@ The dashboard provides interactive insights into sales performance, profit margi
 ## Dataset
 - **Source:** Microsoft Contoso Sales Dataset  
 - **Rows:** around 3 million  
-- **Period:** 2011–2013 (forecast applied for 2014)  
+- **Period:** 2011-2013 (forecast applied for 2014)  
 - **Tables:** `Sales`, `Products`, `Stores`, `Calendar`, `Geography`
 
 ---
