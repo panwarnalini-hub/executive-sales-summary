@@ -1,4 +1,4 @@
-# Data Dictionary - Executive Sales Summary (2011–2014)
+# Data Dictionary - Executive Sales Summary (2011-2014)
 
 This file describes the calculated columns, hierarchies, and an example dataset snapshot.
 
