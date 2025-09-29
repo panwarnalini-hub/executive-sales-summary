@@ -63,7 +63,7 @@ executive-sales-summary/
 ├── README.md                       # Project overview
 ├── docs/                           # Documentation files
 │   ├── MEASURES.md                 # DAX measures
-│   └── DATA_DICTIONARY.md          # Custom columns & dataset snapshot
+│   └── DATA_DICTIONARY.md          # Custom columns and dataset snapshot
 ├── images/                         # Dashboard screenshots
 │   ├── overview.png                # Main dashboard screenshot
 │   └── drillthrough.png            # Drillthrough page screenshot
