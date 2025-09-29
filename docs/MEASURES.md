@@ -1,4 +1,4 @@
-# Measures – Executive Sales Summary (2011–2014)
+# Measures – Executive Sales Summary (2011-2014)
 
 This file documents all the DAX measures used in the dashboard.
 
